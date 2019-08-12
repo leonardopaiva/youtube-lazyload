@@ -1,3 +1,5 @@
+//https://github.com/leonardopaiva/youtube-lazyload
+
 var youtube = document.querySelectorAll( ".youtube-video" );
 
 class E4MYoutubeVideo {
